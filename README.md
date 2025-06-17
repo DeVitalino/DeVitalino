@@ -20,6 +20,15 @@ E aí, tranquilo? Eu sou Mateus Vitalino, tenho 18 anos e atualmente estou trilh
 />
 
 <img 
+  align="left" 
+  alt="Django" 
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" 
+/>
+
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -50,6 +59,15 @@ E aí, tranquilo? Eu sou Mateus Vitalino, tenho 18 anos e atualmente estou trilh
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Dart" 
+  title="Dart" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 />
 
 <br/>
