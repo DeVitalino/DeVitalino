@@ -62,7 +62,7 @@ Acompanhe minha jornada no mundo Tech no canal 💾[**DeVitalino**](https://www.
 | 🐞 Bugs enfrentados                      | Todos que encontrei...                                    até agora 👀   |
 | 💡 Ideias não lançadas                   | Tenho um repositório só de ideias esperando a hora certa                  |
 | ☕ Café consumido                        | Melhor nem contar...                                                      |
-| 💻 +12.000 linhas de código escritas (e contando)                                                                    |
+| 💻 +12.000 linhas de código escritas (e contando)                                                                    
 
 ---
 
