@@ -70,7 +70,7 @@ Acompanhe minha jornada no mundo Tech no canal 💾[**DeVitalino**](https://www.
 
 Fique à vontade para entrar em contato comigo pelas redes abaixo.  
   
-- <img src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png" alt="Email" /> **DeVitalino@Hotmail.com**  
+- <img src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png" alt="Email" /> **DeVitalinoo@Hotmail.com**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" /> **[GitHub]({{GITHUB_LINK}})**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" /> **[LinkedIn]({{LINKEDIN_LINK}})**  
 
