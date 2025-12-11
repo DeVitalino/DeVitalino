@@ -4,7 +4,7 @@
 
 Motivado por transformar desafios em soluções digitais inovadoras, estou sempre em busca de aprimorar minhas habilidades e entregar projetos que impactam positivamente.
 
-Acompanhe minha jornada no mundo Tech no canal 💾[**DeVitalino**](https://www.youtube.com/@CodeVitalino), onde compartilho conhecimentos, desafios e conquistas, aprendendo e ensinando junto com a comunidade.
+Acompanhe minha jornada no mundo Tech no canal 💾[**DeVitalino**](https://www.youtube.com/@CodeVitalino) (Em Criação), onde compartilho conhecimentos, desafios e conquistas, aprendendo e ensinando junto com a comunidade.
 
 ### 🌐 Idiomas
 
@@ -21,11 +21,9 @@ Acompanhe minha jornada no mundo Tech no canal 💾[**DeVitalino**](https://www.
 <img alt="CSS" title="CSS" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="JavaScript" title="JavaScript" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="Python" title="Python" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Git" title="Git" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Flutter" title="Flutter" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img alt="Dart" title="Dart" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img alt="MySQL" title="MySQL" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img alt="Django" title="Django" width="40px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+<img alt="Flask" title="Flask" width="40px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img alt="Git" title="Git" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
 
@@ -71,8 +69,8 @@ Acompanhe minha jornada no mundo Tech no canal 💾[**DeVitalino**](https://www.
 Fique à vontade para entrar em contato comigo pelas redes abaixo.  
   
 - <img src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png" alt="Email" /> **DeVitalinoo@Hotmail.com**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" /> **[GitHub]({{https://github.com/DeVitalino}})**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" /> **[LinkedIn]({{LINKEDIN_LINK}})**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" /> **[GitHub](https://github.com/DeVitalino)**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" /> **[LinkedIn](https://linkedin.com/in/mateusvitalino)**  
 
 <br>
 
