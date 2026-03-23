@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Java+%7C+Python+Developer;APIs+and+Systems)](https://git.io/typing-svg)
+
 ## 🧑🏽‍💻 Mateus Vitalino
 
 **Backend Engineer | Software Developer**
@@ -9,52 +11,35 @@ Acompanhe minha jornada no mundo Tech no canal
 
 ### 🌐 Idiomas
 
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — (estudando para fluente)
+- 🇧🇷 Português
+- 🇺🇸 Inglês 
 
 ---
-
-### Tecnologias
 
 <div align="center">
 
-<img alt="Java" title="Java" width="40px" style="margin: 0 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img alt="Spring Boot" title="Spring Boot" width="40px" style="margin: 0 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img alt="MySQL" title="MySQL" width="40px" style="margin: 0 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Python" title="Python" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Flask" title="Flask" width="40px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<img alt="Git" title="Git" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+</div>
 
 </div>
 
 ---
 
-### 📊 Estatísticas
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DeVitalino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
 
-<div>
-  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=DeVitalino&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeVitalino&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeVitalino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
-
-### Curiosidades
-
-| 🔎 Curiosidade                           | 💬 Detalhe                                                                |
-|------------------------------------------|---------------------------------------------------------------------------|
-| 💻 Projetos desenvolvidos                | Alguns foram direto pro GitHub, outros viraram camisa de saudade          |
-| 🐞 Bugs enfrentados                      | Todos que encontrei...                                    até agora 👀   |
-| 💡 Ideias não lançadas                   | Tenho um repositório só de ideias esperando a hora certa                  |
-| ☕ Café consumido                        | Melhor nem contar...                                                      |
-| 💻 +12.000 linhas de código escritas (e contando)                                                                    
-
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/DeVitalino/DeVitalino/output/github-contribution-grid-snake.svg">
+</p>
 
 ### 📫 Contato
 
