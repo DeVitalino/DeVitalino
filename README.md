@@ -31,6 +31,10 @@ Acompanhe minha jornada no mundo Tech no canal
 
 ---
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DeVitalino&theme=dark&hide_border=true&background=0D1117"/>
+</p>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DeVitalino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
 
