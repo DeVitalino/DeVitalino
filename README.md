@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39d353&size=32&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Java+%7C+Python+Developer;APIs+and+Systems)](https://git.io/typing-svg)
 
-## 🧑🏽‍💻 Mateus Vitalino
+## Mateus Vitalino
 
 **Backend Engineer | Software Developer**
 
