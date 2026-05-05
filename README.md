@@ -9,7 +9,7 @@ Desenvolvedor focado em construção de **APIs, serviços backend e sistemas bas
 Acompanhe minha jornada no mundo Tech no canal  
 💾 **[DeVitalino](https://www.youtube.com/@CodeVitalino)** *(Em criação)*.
 
-### 🌐 Idiomas
+### Idiomas
 
 - 🇧🇷 Português
 - 🇺🇸 Inglês 
@@ -45,11 +45,11 @@ Acompanhe minha jornada no mundo Tech no canal
 <img src="https://raw.githubusercontent.com/DeVitalino/DeVitalino/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-### 📫 Contato
+### Contato
 
 Fique à vontade para entrar em contato comigo pelas redes abaixo.  
   
-- <img src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png" alt="Email" /> **Vitalinojsus@hotmail.com**  
+- <img src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png" alt="Email" /> **Vitalino.tech@gmail.com**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" /> **[GitHub](https://github.com/DeVitalino)**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" /> **[LinkedIn](https://linkedin.com/in/mateusvitalino)**  
 
