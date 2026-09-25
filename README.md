@@ -6,7 +6,8 @@
 
 Desenvolvedor focado em construção de **APIs, serviços backend e sistemas baseados em Java**.
 
-Acompanhe minha jornada no mundo Tech no canal  
+Acompanhe minha jornada no mundo Tech
+
 💾 **[DeVitalino](https://www.youtube.com/@CodeVitalino)** *(BUILDING...)*.
 
 ### Idiomas
