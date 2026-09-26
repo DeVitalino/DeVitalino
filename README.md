@@ -1,67 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39d353&size=32&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Java+%7C+Python+Developer;APIs+and+Systems)](https://git.io/typing-svg)
-
-## Mateus Vitalino
-
-**Backend Engineer | Software Developer**
-
-Desenvolvedor focado em construção de **APIs, serviços backend e sistemas baseados em Java**.
-
-Acompanhe minha jornada no mundo Tech
-
-💾 **[DeVitalino](https://www.youtube.com/@CodeVitalino)** *(BUILDING...)*.
-
-### Idiomas
-
-- 🇧🇷 Português
-- 🇺🇸 Inglês 
-
----
-
-<div align="center">
-
-<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-</div>
-
-</div>
-
----
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DeVitalino&theme=dark&hide_border=true&background=0D1117"/>
+  <img src="assets/Bannergithub.png" width="100%" alt="Banner" />
 </p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-two-tawny-59.vercel.app/api?username=DeVitalino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-
-<img width="41%" height="195px" src="https://github-readme-stats-two-tawny-59.vercel.app/api/top-langs/?username=DeVitalino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/DeVitalino/DeVitalino/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-### Contato
-
-Fique à vontade para entrar em contato comigo pelas redes abaixo.  
-  
-- <img src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png" alt="Email" /> **Vitalino.tech@gmail.com**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" /> **[GitHub](https://github.com/DeVitalino)**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" /> **[LinkedIn](https://linkedin.com/in/mateusvitalino)**  
 
 <br>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=3D7A5A&center=true&vCenter=true&width=500&height=35&lines=Ideas+into+code;Code+into+solutions;Always+building+something" alt="Typing SVG" />
+</p>
 
+<br>
 
-<blockquote>
-  <p>"Code is like humor. When you have to explain it, it’s bad."</p>
-  <footer>— <em>Cory House</em></footer>
-</blockquote>
+<p align="center">
+  <a href="mailto:Vitalino.tech@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=8BAF94" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DeVitalino" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=8BAF94" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mateusvitalino" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=8BAF94" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@CodeVitalino" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-181818?style=flat-square&logo=youtube&logoColor=8BAF94" alt="YouTube" />
+  </a>
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <strong>
+    <span style="color:#3D7A5A;">ᴠɪᴛᴀʟɪɴᴏ</span><sup>©</sup>
+  </strong>
+</p>
+
+<br>
