@@ -10,23 +10,10 @@
 
 <br>
 
-<p align="center">
-  <a href="mailto:Vitalino.tech@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=8BAF94" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DeVitalino" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=8BAF94" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mateusvitalino" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=8BAF94" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@CodeVitalino" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/YouTube-181818?style=flat-square&logo=youtube&logoColor=8BAF94" alt="YouTube" />
-  </a>
-</p>
+  [![Email](https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=8BAF94)](mailto:Vitalino.tech@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=8BAF94)](https://github.com/DeVitalino)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=8BAF94)](https://linkedin.com/in/mateusvitalino)
+  [![YouTube](https://img.shields.io/badge/YouTube-181818?style=flat-square&logo=youtube&logoColor=8BAF94)](https://www.youtube.com/@CodeVitalino)
 
 <br>
 
